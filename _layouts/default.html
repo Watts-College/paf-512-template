@@ -22,9 +22,9 @@
   <link rel="shortcut icon" type="image/png" href="{{ "assets/icons/favicon-32x32.png" | relative_url }}" >
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   <script src="{{ "assets/js/main.js" | relative_url }}"></script>
-  {% if jekyll.environment == 'production' and site.google_analytics %}
-    {% include google-analytics.html %}
-  {% endif %}
+
+  {% include google-analytics.html %}
+
 
 </head>
 <body class="page-responsive">
