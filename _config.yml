@@ -8,13 +8,13 @@
 github_info:
     username:          watts-college 
     branch:            master
-    website-repo:      cpp-525-template
-    course-repo:       cpp-525-template
+    website-repo:      paf-512-template
+    course-repo:       paf-512-template
 
 # Site subpath, e.g. /blog
 url :               "https://watts-college.github.io"
-baseurl:            "/cpp-525-template"
-course_url:         "http://watts-college.github.io/cpp-525-fall-2020/"
+baseurl:            "/paf-512-template"
+course_url:         "http://watts-college.github.io/cpp-paf-512-template/"
 
 
 # NAVIGATION BAR
@@ -73,7 +73,7 @@ social:
     youtube:        
 
 # Twitter share button
-twitter_username:
+# twitter_username:
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
